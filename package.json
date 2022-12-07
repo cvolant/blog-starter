@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "dev": "yarn next build && yarn next start",
     "start": "yarn next build && yarn next start"
